@@ -7,6 +7,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=fadouaabdoul&label=Profile%20views&color=0e75b6&style=flat">
 
+<img align="left" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fadouaabdoul&theme=radical"/>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=fadouaabdoul&show_icons=true&theme=radical">
+
 
 
 - 🔭 I’m currently working as a Debugger and Tester 🤭
@@ -17,7 +20,3 @@
 - ⚡ Motivational Quote: It's okay to struggle, but not okay to give up 🦋
 
 
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fadouaabdoul&theme=radical"/>
-
-
-![Fadoua's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadouaabdoul&show_icons=true&theme=radical)
