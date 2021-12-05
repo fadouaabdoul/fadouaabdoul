@@ -17,4 +17,7 @@
 - ⚡ Motivational Quote: It's okay to struggle, but not okay to give up 🦋
 
 
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fadouaabdoul&theme=radical"/>
+
+
 ![Fadoua's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadouaabdoul&show_icons=true&theme=radical)
