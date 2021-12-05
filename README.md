@@ -1,7 +1,7 @@
 ### Hello World  👋👾
 ### Welcome to my GitHub Profile 💫✨
 
-<img align="right" height="380" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
+<!--<img align="right" height="380" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />--->
 
 - 🔭 I’m currently working as a Debugger and Tester 🤭
 - 🌱 I’m currently learning JavaScript 💥☠️
