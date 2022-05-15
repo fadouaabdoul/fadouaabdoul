@@ -12,6 +12,7 @@
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouaabdoul&layout=compact)](https://github.com/fadouaabdoul/github-readme-stats">
 
+<!--
 <div class="center">
 <p>
 - 🔭 I’m currently working as a Developer 🤭 &nbsp;
@@ -21,7 +22,7 @@
 - 😄 Nickname : RefDaraf 🍁
 - ⚡ Motivational Quote: It's okay to struggle, but not okay to give up 🦋
   </p>
-
+-->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
