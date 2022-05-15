@@ -15,8 +15,8 @@
 <!--
 <div class="center">
 <p>
-- 🔭 I’m currently working as a Debugger and Tester 🤭 &nbsp;
-- 🌱 I’m currently learning JavaScript 💥☠️
+- 🔭 I’m currently working as a Developer 🤭 &nbsp;
+- 🌱 I’m currently learning JavaScript and Python 💥☠️
 - 💬 Ask me about Anything 😶‍🌫️
 - 📫 I started my #100daysofcode
 - 😄 Nickname : RefDaraf 🍁
