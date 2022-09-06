@@ -1,8 +1,12 @@
 ### Hello World  👋👾
-### Welcome to my GitHub Profile 💫✨
+### Welcome to my Kingdom 💫✨
+
 
 <!--<img align="right" height="380" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />--->
 
+"Being the detective in a crime scene, meanwhile being the murderer."
+
+"try to build it step by step and with consistency, because the function of progress ain't linear." 
 
 
 <img src="https://komarev.com/ghpvc/?username=fadouaabdoul&label=Profile%20views&color=0e75b6&style=flat">
