@@ -4,12 +4,14 @@
 
 <!--<img align="right" height="380" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />--->
 
+
+
+<img src="https://komarev.com/ghpvc/?username=fadouaabdoul&label=Profile%20views&color=0e75b6&style=flat">
+
 "Being the detective in a crime scene, meanwhile being the murderer."
 
 "try to build it step by step and with consistency, because the function of progress ain't linear." 
 
-
-<img src="https://komarev.com/ghpvc/?username=fadouaabdoul&label=Profile%20views&color=0e75b6&style=flat">
 
 <img align="left" alt= "streak stat card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fadouaabdoul&theme=radical"/>
 <img   alt= " stat card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=fadouaabdoul&show_icons=true&theme=radical">
