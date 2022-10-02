@@ -10,7 +10,7 @@
 
 "Being the detective in a crime scene, meanwhile being the murderer."
 
-"try to build it step by step and with consistency, because the function of progress ain't linear." 
+"Your skills don't improve consistently but in steps." 
 
 
 <img align="left" alt= "streak stat card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fadouaabdoul&theme=radical"/>
