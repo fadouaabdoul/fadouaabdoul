@@ -12,7 +12,7 @@
   <!--- <p>
 - 🔭 I’m currently a research student on AI 🤭 
 - 🌱 My main stack is JavaScript and Python, yet I love to discover new tools and technologies💥☠️
-- 📫 I started writing blogs on <a href="https://hashnode.com/@RefDaraf9991">My Blog</a>
+- 📫 I started writing blogs on <a href="[https://hashnode.com/@RefDaraf999](https://refdaraf.hashnode.dev)">My Blog</a>
 - 😄 Chinese name : 颜如玉 🍁
 - 😄 Nickname : RefDaraf 
 - ⚡ Motivational Quote: "Does work stop, or do we just ignore it.🦋
