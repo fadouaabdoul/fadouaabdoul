@@ -9,25 +9,23 @@
 
 
 <div>
-  <!--- <p>
-- 🔭 I’m currently a research student on AI 🤭 
-- 🌱 My main stack is JavaScript and Python, yet I love to discover new tools and technologies💥☠️
-- 📫 I started writing blogs on <a href="[https://hashnode.com/@RefDaraf999](https://refdaraf.hashnode.dev)">My Blog</a>
-- 😄 Chinese name : 颜如玉 🍁
-- 😄 Nickname : RefDaraf 
-- ⚡ Motivational Quote: "Does work stop, or do we just ignore it.🦋
-- 💬 Ask me about Anything, I'm always available. 😶‍🌫️
-  </p>
------>
-
-
-
+<ul>
+<li> 🔭 I’m currently a researcher on AI and its application. </li>
+<li>🌱 My main stack is JavaScript and Python, yet I love to discover new tools and technologies💥☠️</li>
+<li> 📫 I started writing blogs on:<a href="https://hashnode.com/@RefDaraf999](https://refdaraf.hashnode.dev"> Click Me</a></li>
+<li>😄 Chinese name : 颜如玉 🍁 </li>
+<li> 😄 Nickname : RefDaraf  </li>
+<li>⚡ Motivational Quote: "Does work stop, or do we just ignore it.🦋 </li>
+<li>💬 Ask me about Anything, I'm always available. 😶‍🌫️ </li>
+ </ul>
+  
+<p align="center">"kills don't improve consistently but in steps." </p>
 
 <img align="left" alt= "streak stat card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fadouaabdoul&theme=radical"/>
 <img   alt= " stat card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=fadouaabdoul&show_icons=true&theme=radical">
 
 
-"Your skills don't improve consistently but in steps." 
+
 
 
 <h3 align="center">Connect with me:</h3>
