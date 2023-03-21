@@ -9,6 +9,7 @@
 
 
 <div>
+  <p align="center"><b>SOFTWARE ENGINEER</p>
 <ul>
 <li> 🔭 I’m currently a researcher on AI and its application. </li>
 <li>🌱 My main stack is JavaScript and Python, yet I love to discover new tools and technologies💥☠️</li>
