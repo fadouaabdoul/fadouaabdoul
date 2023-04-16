@@ -20,7 +20,7 @@
 <li>💬 Ask me about Anything, I'm always available. 😶‍🌫️ </li>
  </ul>
   
-<p align="center">"kills don't improve consistently but in steps." </p>
+<p align="center">"skills don't improve consistently but in steps." </p>
 
 <img align="left" alt= "streak stat card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fadouaabdoul&theme=radical"/>
 <img   alt= " stat card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=fadouaabdoul&show_icons=true&theme=radical">
