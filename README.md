@@ -11,7 +11,7 @@
 <div>
   <p align="center"><b>SOFTWARE ENGINEER</p>
 <ul>
-<li> 🔭 I’m currently a researcher on AI and its application. </li>
+<li> 🔭 I’m currently a researcher in Artificial Intelligence, surrently working on Federated Learning (FL). </li>
 <li>🌱 My main stack is JavaScript and Python, yet I love to discover new tools and technologies💥☠️</li>
 <li> 📫 I started writing blogs on:<a href="https://hashnode.com/@RefDaraf999](https://refdaraf.hashnode.dev"> Click Me</a></li>
 <li>😄 Chinese name : 颜如玉 🍁 </li>
