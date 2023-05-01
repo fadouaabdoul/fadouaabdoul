@@ -13,7 +13,7 @@
 <ul>
 <li> 🔭 I’m currently a researcher in Artificial Intelligence, surrently working on Federated Learning (FL). </li>
 <li>🌱 My main stack is JavaScript and Python, yet I love to discover new tools and technologies💥☠️</li>
-<li> 📫 I started writing blogs on:<a href="https://hashnode.com/@RefDaraf999](https://refdaraf.hashnode.dev"> Click Me</a></li>
+<li> 📫 I started writing blogs on:<a href="https://refdaraf.hashnode.dev"> Click Me</a></li>
 <li>😄 Chinese name : 颜如玉 🍁 </li>
 <li> 😄 Nickname : RefDaraf  </li>
 <li>⚡ Motivational Quote: "Does work stop, or do we just ignore it.🦋 </li>
